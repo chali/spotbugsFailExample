@@ -1,4 +1,4 @@
-# Example of failure for spotbugs gradle plugin and Gradle 4.10 Nightly snapshot
+# Example of failure for spotbugs gradle plugin and Gradle 4.10-rc-1
 
 To reproduce you can call `./gradlew clean build --stacktrace`
 
